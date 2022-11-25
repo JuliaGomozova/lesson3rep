@@ -6,3 +6,5 @@
 добавили текст в браузере/ add eng text
 
 ![apple](apple.png)
+
+![orange](orange.png)
